@@ -21,3 +21,7 @@ or
 `
 python3 bot.py
 `
+
+# Used code
+
+paginator
